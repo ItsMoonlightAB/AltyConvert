@@ -1,0 +1,12 @@
+build/
+*.o
+*.exe
+*.res
+
+*.dll
+ffmpeg.exe
+gspawn-win64-helper.exe
+
+.vscode/
+.DS_Store
+Thumbs.db
