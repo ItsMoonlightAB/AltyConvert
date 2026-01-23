@@ -7,6 +7,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows)](https://github.com/ItsMoonlightAB/AltyConvert)
 [![Language](https://img.shields.io/badge/language-C-A8B9CC?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![GUI](https://img.shields.io/badge/GUI-GTK4-green?style=flat-square&logo=gtk)](https://www.gtk.org/)
+[![License](https://img.shields.io/badge/license-MIT-orange?style=flat-square)](LICENSE)
 
 [Download Latest Release](https://github.com/ItsMoonlightAB/AltyConvert/releases/latest)
 
